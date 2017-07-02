@@ -1,6 +1,6 @@
 # LifestyleStore
-1.open the index.php file in your browser
-Technologies use:
+1.open the index.php file in your browser/n
+Technologies used:
 Used a Bootstrap Framework with HTML CSS for front end. 
 Used PHP and MySQLi for backend. 
 Functions:
