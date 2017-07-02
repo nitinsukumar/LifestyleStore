@@ -1,0 +1,27 @@
+.banner-img
+{
+padding-top: 75px;
+padding-bottom: 90px;
+text-align: center;
+color: #f8f8f8;
+background: url("background.jpg") no-repeat center;
+background-size: cover;
+}
+
+.banner-content
+{
+padding-top: 6%;
+padding-bottom:6%;
+overflow:hidden;
+margin-top:12%;
+margin-bottom: 12%;
+background-color: rgba(0, 0, 0, 0.7);
+max-width: 660px;
+}
+footer
+{
+padding:10px 0px;
+background-color: #000;
+color:#fff;
+font-size:14px
+}
